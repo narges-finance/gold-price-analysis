@@ -31,6 +31,7 @@ It uses data from Yahoo Finance and performs basic financial analysis such as re
 
 ```bash
 pip install yfinance pandas numpy matplotlib
+```
 
 2. Run the script:
 python gold_analysis.py
